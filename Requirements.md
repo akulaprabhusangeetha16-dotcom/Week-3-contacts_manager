@@ -1,2 +1,0 @@
-# This project uses only Python standard library modules
-# No external packages are required
